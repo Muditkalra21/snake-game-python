@@ -21,6 +21,7 @@ Snake-Game/
 │── scoreboard.py # Manages current score and high score saving
 │── data.txt # Stores the highest score
 │── README.md # Project documentation
+│── assets # Project Screenshot
 
 ## 🛠 Requirements
 - Python 3.x  
@@ -51,3 +52,4 @@ Key	Action
 
 ## 📸 Screenshot
 ![Snake Game Screenshot](assets/screenshot.png)
+
