@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.venv/
+env/
+venv/
+*.sqlite3
+*.log
+*.pot
+*.py[co]
+.mypy_cache/
+.pytest_cache/
+.idea/
